@@ -2,3 +2,5 @@ Resolusi
 1. Makan
 2. Minum
 3. Mandi
+4. Sholat
+5. Tidur
